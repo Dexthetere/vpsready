@@ -1,2 +1,1 @@
-# vpsready
-dssddss
+sudo apt update
